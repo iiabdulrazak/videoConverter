@@ -1,5 +1,5 @@
 # videoConverter
-extractor(.py) this is a 'GUI' tool installs YouTube videos, and this converter(.ipynb) installs 'YouTube' videos and converts into mp3 audio.
+extractor(.py) this is a 'GUI' tool installs YouTube videos, and this converter(.ipynb) installs YouTube videos and converts into mp3 audio.
 
 ## Packages
 <table class="tg">
